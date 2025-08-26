@@ -1,2 +1,6 @@
-# Challenger-Amigo-Secreto
-Challenger Amigo Secreto, onde você irá adicionanda os nomes e posteriomente fazer o sorteio.
+ # Challenger-Amigo-Secreto
+
+
+# Challenger Amigo Secreto, onde você irá adicionanda os nomes e posteriomente fazer o sorteio.
+
+Usamos nesse projeto algumas o Javascript, HTML, CSS.
